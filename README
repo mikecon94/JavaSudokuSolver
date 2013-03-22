@@ -1,0 +1,6 @@
+A heavily commented Sudoku Solver wrote in Java.
+
+Usage:
+The sudoku is read from a text file called "Sudoku.txt".
+An example has been provided.
+Where the number is not given a 0 is put in the text file.
