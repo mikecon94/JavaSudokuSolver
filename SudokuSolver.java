@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.io.File;
 
+//I have commented this program more than normal just for those who are
+//interested in understanding it.
 public class SudokuSolver
 {
   public static void main(String[] args) throws Exception
